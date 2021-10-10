@@ -33,7 +33,7 @@ All permissions can be defined in one or multiple ability files and not duplicat
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
 
-## D
+## Df
 
 [**Devise**](https://github.com/plataformatec/devise) is a flexible authentication solution for Rails based on Warden. It:
 * is Rack based;
@@ -46,6 +46,9 @@ All permissions can be defined in one or multiple ability files and not duplicat
 [**FactoryBot**](https://github.com/thoughtbot/factory_bot) is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
 
 ---
+[**Faker**](https://github.com/faker-ruby/faker) is a library to generates random data, used in factories to can test differents cases in the same situation
+
+
 [**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when
 processing the request/response cycle.
@@ -117,6 +120,8 @@ end
 [**Kaminari**](https://github.com/kaminari/kaminari) is a Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 
 ## O
+[**Octokit**](https://github.com/octokit/octokit.rb) is a library to access the github data and improve yours automation
+
 
 [**Octobox**](https://github.com/octobox/octobox). Take back control of your GitHub Notifications.
 
@@ -155,6 +160,8 @@ including:
 ---
 [**Puma**](https://github.com/puma/puma) is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. Puma is intended for use in both development and production environments. In order to get the best throughput, it is highly recommended that you use a Ruby implementation with real threads like Rubinius or JRuby.
 
+[**Pundit**](https://github.com/varvet/pundit) is an authorization library for Ruby which restricts what resources a given user is allowed to access.
+
 ## R
 
 [**Rails**](https://github.com/rails/rails) a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Also called Ruby ​​on Rails
@@ -178,7 +185,7 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 
 Have a large community, with more than 670 contribuitors around the world.
 
-Solidus, Rails eCommerce System. 
+Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
 
